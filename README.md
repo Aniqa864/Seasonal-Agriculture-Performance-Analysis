@@ -1,5 +1,9 @@
 # Seasonal Agriculture Performance Analysis
 
+> **Internship Project — Data Analytics**
+> 
+> Developed as part of the **AICTE Internship Program by Edunet Foundation**, under the **VOIS for Tech Program** in Data Analytics.
+
 ## 📌 Project Overview
 
 This project analyzes agricultural performance across the three major agricultural seasons in India:
