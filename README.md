@@ -233,3 +233,29 @@ seasonal-agriculture-performance-analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 └── images/
+```
+
+---
+
+## ▶️ How to Run
+
+This project was developed using **Google Colab**.
+
+### Using Google Colab
+
+1. Download the `Seasonal_Agriculture_Performance_Analysis.ipynb` notebook from this repository.
+2. Open [Google Colab](https://colab.research.google.com/).
+3. Click **File → Upload notebook**.
+4. Select the downloaded `.ipynb` file.
+5. Upload the `seasonal_agriculture_performance_dataset.csv` file when required.
+6. Run the notebook cells sequentially.
+
+### Required Libraries
+
+The project uses:
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
