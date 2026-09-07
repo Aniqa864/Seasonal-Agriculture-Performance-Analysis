@@ -62,7 +62,7 @@ Important variables include:
 ## 🛠️ Technologies Used
 
 - Python
-- Jupyter Notebook
+- Google colab
 - Pandas
 - NumPy
 - Matplotlib
